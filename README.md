@@ -19,3 +19,7 @@ Questions:
 ## Acknowledgements
 
 Thanks go to [Alex Gude](https://www.kaggle.com/alexgude), who prepared the dataset.
+
+## Commit Messages
+
+Since it's mostly a single-contributor repository and I won't maintain the repository after I finished my insights into the data, I only use basic commit messages briefly describing the changes made.
